@@ -1,5 +1,5 @@
 # [Welcome to My Profile! 👋](https://yusufusta.net)
-![Profile views](https://gpvc.arturio.dev/quiec) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yusufusta/&title=Profile%20Views)
+![Profile views](https://gpvc.arturio.dev/quiec) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/evolos/&title=Profile%20Views)
 
 
 <details>
@@ -19,10 +19,10 @@ Q | A
 
 <table align="center">
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusufusta&show_icons=true&theme=radical" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=evolos&show_icons=true&theme=radical" /></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusta&theme=radical&layout=compact" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolos&theme=radical&layout=compact" /></td>
     </tr>
 </table>
 
