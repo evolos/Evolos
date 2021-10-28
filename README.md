@@ -1,5 +1,5 @@
 # [Welcome to My Profile! 👋](https://project.evolos.tk)
-![Profile View](https://komarev.com/ghpvc/?username=evolos&style=plastic)
+![Profile View](https://komarev.com/ghpvc/?username=evolos&style=plastic) <a href="https://t.me/Si_Kancill"> <img src="https://img.shields.io/badge/Telegram-blue?style=social&logo=Telegram" /></a>
 
 
 <details>
